@@ -2,8 +2,7 @@
 public class ControMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		//added a new comment from desktop system
 	}
 
 }
